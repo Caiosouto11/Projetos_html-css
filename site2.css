@@ -1,0 +1,65 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+    font-size: 17px;
+    
+}
+
+
+#nome{
+    color: darkblue;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#Endereço{
+    background-color: lightskyblue;
+    font-size: 24px;
+}
+#Experiência{
+
+    background-color: lightskyblue;
+    font-size: 24px;
+}
+
+#Competências{
+
+    background-color: lightskyblue;
+    font-size: 24px;
+}
+
+#forma{
+
+    background-color: lightskyblue;
+    font-size: 24px;
+}
+
+#sumario{
+    background-color: lightskyblue;
+    font-size: 24px;
+
+}
+
+
+a {
+    text-decoration: none;
+   
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+#Uniesp{
+color: darkblue;
+
+}
+
+#perfil{
+
+    border-radius: 70%;
+    width: 150px;
+    height:150px;
+}
